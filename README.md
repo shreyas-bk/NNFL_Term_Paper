@@ -1,4 +1,4 @@
-# NNFL_Term_Paper
+# NNFL_Term_Paper - CYCLEGAN
 The contents of the assignment are as follows:
 ```
 13
