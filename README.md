@@ -1,6 +1,6 @@
 # NNFL_Term_Paper
 The contents of the assignment are as follows:
-
+```
 13
 |   NNFL_Paper13.ppt               - contain the powerpoint presentation for this term paper  
 |   NNFL_Assignment_CycleGAN.ipynb - contains the code that is used to create, train and test or implementation
@@ -19,5 +19,5 @@ The contents of the assignment are as follows:
 |   loss_log.txt                   - contaians the numeric values of all the different losses throughout the 
 |				     training process of 200 epochs 
 |   train_opt.txt                  - contains the details of the configurations we used to train the model
-
+```
 Note: The notebook itself is sufficient to train the model
