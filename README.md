@@ -1,4 +1,7 @@
 # NNFL_Term_Paper - CYCLEGAN
+
+Saved weights and visual results can be found at : [drive](https://drive.google.com/drive/folders/1h9ZGkrj5Hko4MyniTpyXe2nR6i04oQ4l?usp=sharing)
+
 The contents of the assignment are as follows:
 ```
 13
