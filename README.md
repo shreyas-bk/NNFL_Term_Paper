@@ -24,3 +24,7 @@ The contents of the assignment are as follows:
 |   train_opt.txt                  - contains the details of the configurations we used to train the model
 ```
 Note: The notebook itself is sufficient to train the model
+
+Visual Results:
+
+![image](NNFL_Term_Paper/Visual Results/Cezanne2Vangogh/130_F.png)
