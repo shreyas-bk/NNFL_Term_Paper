@@ -27,4 +27,10 @@ Note: The notebook itself is sufficient to train the model
 
 Visual Results:
 
-![image](NNFL_Term_Paper/Visual Results/Cezanne2Vangogh/130_F.png)
+Real
+
+![](https://github.com/shreyas-bk/NNFL_Term_Paper/blob/main/Visual%20Results/Cezanne2Vangogh/130_R.png)
+
+Transformed
+
+![](https://github.com/shreyas-bk/NNFL_Term_Paper/blob/main/Visual%20Results/Cezanne2Vangogh/130_F.png)
