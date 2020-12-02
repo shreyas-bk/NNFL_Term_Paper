@@ -2,7 +2,8 @@
 
 
 Generator Architecture:
-![](https://github.com/shreyas-bk/NNFL_Term_Paper/blob/main/Visual%20Results/Cezanne2Vangogh/130_R.png)
+
+![](https://github.com/shreyas-bk/NNFL_Term_Paper/blob/main/CycleGAN%20Generator.png)
 
 Saved weights and visual results can be found at : [drive](https://drive.google.com/drive/folders/1h9ZGkrj5Hko4MyniTpyXe2nR6i04oQ4l?usp=sharing)
 
