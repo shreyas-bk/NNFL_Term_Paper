@@ -3,7 +3,7 @@
 Implementation Details:
  - Model trained on subset of Van Gogh dataset (400 images of both categories)
  - Model trained for 200 epochs
- - Architecture simimlar to diagram given below, but with 9 residual blocks since input image size is 256x256
+ - Architecture similar to diagram given below, but with 9 residual blocks since input image size is 256x256
 
 Generator Architecture:
 
