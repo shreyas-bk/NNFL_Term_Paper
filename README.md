@@ -1,4 +1,4 @@
-# NNFL_Term_Paper - CYCLEGAN
+# NNFL_Term_Paper - [CYCLEGAN](https://arxiv.org/abs/1703.10593)
 
 Implementation Details:
  - Model trained on subset of Van Gogh dataset (400 images of both categories)
